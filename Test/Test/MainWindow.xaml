@@ -1,0 +1,510 @@
+﻿<Window x:Class="Test.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Test"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="650" Width="650">
+    <Window.Resources>
+        <Style TargetType="Grid">
+            <Setter Property="Background">
+                <Setter.Value>
+                    <LinearGradientBrush>
+                        <LinearGradientBrush.StartPoint>1,0</LinearGradientBrush.StartPoint>
+                        <LinearGradientBrush.EndPoint>0,1</LinearGradientBrush.EndPoint>
+                        <LinearGradientBrush.GradientStops>
+                            <GradientStop Color="AliceBlue" Offset="0.3"/>
+                            <GradientStop Color="BlueViolet" Offset="1"/>
+                        </LinearGradientBrush.GradientStops>
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="ButtonStyle1">
+            <Style.Triggers>
+                <Trigger Property="Button.IsMouseOver" Value="True">
+                    <Trigger.EnterActions>
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <ColorAnimation From="#aa46c8" To="Orchid"
+                                    Storyboard.TargetProperty="(Button.Background).(SolidColorBrush.Color)" 
+                                    Duration="0:0:0.2"/>
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </Trigger.EnterActions>
+                    <Trigger.ExitActions>
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <ColorAnimation From="Orchid" To="#aa46c8"
+                                    Storyboard.TargetProperty="(Button.Background).(SolidColorBrush.Color)" 
+                                    Duration="0:0:0.2"/>
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </Trigger.ExitActions>
+                </Trigger>
+            </Style.Triggers>
+            <Setter Property="Button.Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border CornerRadius="40" BorderBrush="Black" BorderThickness="1"
+                                Background="{TemplateBinding Background}">
+
+                            <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                              VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Canvas Name="Start" Visibility="Visible">
+            <TextBlock Name="Start1" Width="500" Height="70" FontFamily="Calibri" FontSize="60" 
+                       TextAlignment="Center" TextWrapping="Wrap" Text="Химия" Canvas.Left="75"  
+                       Canvas.Top="70" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+            <TextBlock Name="Start2" Width="400" Height="50" FontFamily="Calibri" FontSize="40" 
+                       TextAlignment="Center" TextWrapping="Wrap" Text="Химические реакции" 
+                       Canvas.Left="125"  Canvas.Top="200"/>
+            <TextBlock Name="Start3" Width="500" Height="148" FontFamily="Calibri" FontSize="15" 
+                       TextAlignment="Justify" TextWrapping="Wrap" 
+                       Text="Со способами разделения смесей мы часто встречаемся в повседневной жизни. Например, фильтрование – это основа работы бытовой техники (пылесосов). Его используют хирурги (марлевые повязки на операциях), домохозяйки процеживают молоко, работниками  очистных сооружений очищают питьевую воду и т.д. Но не только физические явления стоят на службе человека, происходит вокруг масса и других явлений, при которых из одних веществ образуются другие, новые вещества. Такие явления называются химическими. Их еще называют химическими реакциями." 
+                       Canvas.Left="75"  Canvas.Top="300" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+            <Button Name="ButtonStart" Background="#aa46c8" Foreground="White" Width="300" 
+                    Height="50" Content="Начать тест" Canvas.Left="175" Canvas.Bottom="80" 
+                    FontSize="20" Style="{StaticResource ButtonStyle1}" Click="ButtonStart_Click"/>
+        </Canvas>
+        <Canvas Name="Test" Visibility="Hidden">
+            <Image Name="Photochka" Width="400" Height="230"
+                   Canvas.Left="125" Canvas.Top="20"/>
+
+            <TextBlock Name="NumOfQuestion" Width="120" Height="30" FontFamily="Calibri" 
+                       FontSize="20" FontWeight="Bold" Text="Вопрос №1"
+                       Canvas.Left="275" Canvas.Top="260" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+            <TextBlock Name="Question" Width="550" Height="60" 
+                       FontFamily="Calibri" FontSize="15" TextAlignment="Justify" TextWrapping="Wrap" 
+                       Text="Верны ли следующие суждения? А. Выпадение осадка свидетельствует о протекании химической реакции. Б. Чем больше площадь соприкосновения реагентов, тем быстрее идет химическая реакция." 
+                       Canvas.Left="50" Canvas.Top="300"  
+                       HorizontalAlignment="Center" VerticalAlignment="Top"/>
+
+            <RadioButton Name="AnswerID" Width="200" Height="80"
+                         FontFamily="Calibri" FontSize="10" Checked="RadioButton_Checked"
+                         VerticalContentAlignment="Center" Canvas.Left="50" Canvas.Top="359" HorizontalAlignment="Center" VerticalAlignment="Top">
+                <RadioButton.Content>
+                    <TextBlock TextAlignment="Justify" TextWrapping="Wrap" Text="растворение сахара в вопропускание углекислого газа через известковую воду"/>
+                </RadioButton.Content>
+            </RadioButton>
+
+            <RadioButton Name="AnswerID2" Width="200" Height="80"
+                         FontFamily="Calibri" FontSize="10" Checked="RadioButton_Checked"
+                         VerticalContentAlignment="Center" Canvas.Left="400" Canvas.Top="359" HorizontalAlignment="Center" VerticalAlignment="Top">
+                <RadioButton.Content>
+                    <TextBlock TextAlignment="Justify" TextWrapping="Wrap" Text="растворение сахара в вопропускание углекислого газа через известковую воду"/>
+                </RadioButton.Content>
+            </RadioButton>
+
+            <RadioButton Name="AnswerID3" Width="200" Height="80"
+                         FontFamily="Calibri" FontSize="10" Checked="RadioButton_Checked"
+                         VerticalContentAlignment="Center" Canvas.Left="50" Canvas.Top="462" HorizontalAlignment="Center" VerticalAlignment="Top">
+                <RadioButton.Content>
+                    <TextBlock TextAlignment="Justify" TextWrapping="Wrap" Text="растворение сахара в вопропускание углекислого газа через известковую воду"/>
+                </RadioButton.Content>
+            </RadioButton>
+
+            <RadioButton Name="AnswerID4" Width="200" Height="80"
+                         FontFamily="Calibri" FontSize="10" Checked="RadioButton_Checked"
+                         VerticalContentAlignment="Center" Canvas.Left="400" Canvas.Top="465" HorizontalAlignment="Center" VerticalAlignment="Top">
+                <RadioButton.Content>
+                    <TextBlock TextAlignment="Justify" TextWrapping="Wrap" Text="растворение сахара в вопропускание углекислого газа через известковую воду"/>
+                </RadioButton.Content>
+            </RadioButton>
+
+            <Button Width="200" Height="40" Name="PreviousQuestion" FontFamily="Calibri"
+                    Content="Предыдущий вопрос" 
+                    Canvas.Left="115" Canvas.Top="561" Click="PreviousQuestion_Click"/>
+            
+            <Button Width="200" Height="40" Name="NextQuestion" FontFamily="Calibri"
+                    Content="Следующий вопрос" 
+                    Canvas.Left="345" Canvas.Top="561" Click="NextQuestion_Click"/>
+
+        </Canvas>
+        <Grid Name="table" 
+              Visibility="Hidden"
+              Margin="30">
+            
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="150"/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition Height="80"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Grid.Row="0" Grid.Column="0" 
+                       Text="ВариантОтвета→&#x0a;Номер Ворпроса↓"/>
+
+            <TextBlock Grid.Row="0" Grid.Column="1" Text="1" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <TextBlock Grid.Row="0" Grid.Column="2" Text="2" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <TextBlock Grid.Row="0" Grid.Column="3" Text="3" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <TextBlock Grid.Row="0" Grid.Column="4" Text="4" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+            <TextBlock Grid.Row="1" Grid.Column="0" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       Text="1"/>
+            <TextBlock Grid.Row="2" Grid.Column="0"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       Text="2"/>
+            <TextBlock Grid.Row="3" Grid.Column="0" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       Text="3"/>
+            <TextBlock Grid.Row="4" Grid.Column="0" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       Text="4"/>
+            <TextBlock Grid.Row="5" Grid.Column="0" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       Text="5"/>
+            <TextBlock Grid.Row="6" Grid.Column="0" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       Text="6"/>
+            <TextBlock Grid.Row="7" Grid.Column="0" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       Text="7"/>
+            <TextBlock Grid.Row="8" Grid.Column="0" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       Text="8"/>
+            <TextBlock Grid.Row="9" Grid.Column="0" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       Text="9"/>
+            <TextBlock Grid.Row="10" Grid.Column="0" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       Text="10"/>
+
+
+
+
+<!--frgggggggggggggggggggggggggggggggggggggggggggggg-->
+            <TextBlock Grid.Row="1" Grid.Column="1" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text=""
+                       FontSize="10"
+                       Name="a1"/>
+            <TextBlock Grid.Row="2" Grid.Column="1"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text=""
+                       FontSize="10"
+                       Name="a2"/>
+            <TextBlock Grid.Row="3" Grid.Column="1" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text=""
+                       FontSize="10"
+                       Name="a3"/>
+            <TextBlock Grid.Row="4" Grid.Column="1" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text=""
+                       FontSize="10"
+                       Name="a4"/>
+            <TextBlock Grid.Row="5" Grid.Column="1" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text=""
+                       FontSize="10"
+                       Name="a5"/>
+            <TextBlock Grid.Row="6" Grid.Column="1" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text=""
+                       FontSize="10"
+                       Name="a6"/>
+            <TextBlock Grid.Row="7" Grid.Column="1" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       Text="взаимодействие CaCO3 с соляной кислотой"
+                       FontSize="10"
+                       TextWrapping="Wrap"
+                       Name="a7"/>
+            <TextBlock Grid.Row="8" Grid.Column="1" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text=""
+                       FontSize="10"
+                       Name="a8"/>
+            <TextBlock Grid.Row="9" Grid.Column="1" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text=""
+                       FontSize="10"
+                       Name="a9"/>
+            <TextBlock Grid.Row="10" Grid.Column="1" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       FontSize="10"
+                       Text="с поглощением теплоты"
+                       Name="a10"/>
+
+
+
+            <!--frgggggggggggggggggggggggggggggggggggggggggggggg-->
+            <TextBlock Grid.Row="1" Grid.Column="2" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text=""
+                       FontSize="10"
+                       Name="b1"/>
+            <TextBlock Grid.Row="2" Grid.Column="2"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       FontSize="10"
+                       Text="верны оба суждения"
+                       Name="b2"/>
+            <TextBlock Grid.Row="3" Grid.Column="2" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text=""
+                       FontSize="10"
+                       Name="b3"/>
+            <TextBlock Grid.Row="4" Grid.Column="2" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text="наружу"
+                       FontSize="10"
+                       Name="b4"/>
+            <TextBlock Grid.Row="5" Grid.Column="2" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text="с выделением теплоты"
+                       FontSize="10"
+                       Name="b5"/>
+            <TextBlock Grid.Row="6" Grid.Column="2" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text=""
+                       FontSize="10"
+                       Name="b6"/>
+            <TextBlock Grid.Row="7" Grid.Column="2" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       Text=""
+                       FontSize="10"
+                       TextWrapping="Wrap"
+                       Name="b7"/>
+            <TextBlock Grid.Row="8" Grid.Column="2" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text=""
+                       FontSize="10"
+                       Name="b8"/>
+            <TextBlock Grid.Row="9" Grid.Column="2" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       FontSize="10"
+                       Text="верны оба суждения"
+                       Name="b9"/>
+            <TextBlock Grid.Row="10" Grid.Column="2" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text=""
+                       FontSize="10"
+                       Name="b10"/>
+
+
+            <!--frgggggggggggggggggggggggggggggggggggggggggggggg-->
+            <TextBlock Grid.Row="1" Grid.Column="3" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text=""
+                       FontSize="10"
+                       Name="c1"/>
+            <TextBlock Grid.Row="2" Grid.Column="3"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text=""
+                       FontSize="10"
+                       Name="c2"/>
+            <TextBlock Grid.Row="3" Grid.Column="3" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text=""
+                       FontSize="10"
+                       Name="c3"/>
+            <TextBlock Grid.Row="4" Grid.Column="3" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text=""
+                       FontSize="10"
+                       Name="c4"/>
+            <TextBlock Grid.Row="5" Grid.Column="3" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text=""
+                       FontSize="10"
+                       Name="c5"/>
+            <TextBlock Grid.Row="6" Grid.Column="3" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       FontSize="10"
+                       Text="верно только Б"
+                       Name="c6"/>
+            <TextBlock Grid.Row="7" Grid.Column="3" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       Text=""
+                       FontSize="10"
+                       TextWrapping="Wrap"
+                       Name="c7"/>
+            <TextBlock Grid.Row="8" Grid.Column="3" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text=""
+                       FontSize="10"
+                       Name="c8"/>
+            <TextBlock Grid.Row="9" Grid.Column="3" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text=""
+                       FontSize="10"
+                       Name="c9"/>
+            <TextBlock Grid.Row="10" Grid.Column="3" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text=""
+                       FontSize="10"
+                       Name="c10"/>
+
+
+            <!--frgggggggggggggggggggggggggggggggggggggggggggggg-->
+            <TextBlock Grid.Row="1" Grid.Column="4" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text="верно только А"
+                       FontSize="10"
+                       Name="d1"/>
+            <TextBlock Grid.Row="2" Grid.Column="4"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       FontSize="10"
+                       Text=""
+                       Name="d2"/>
+            <TextBlock Grid.Row="3" Grid.Column="4" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text="только увеличивается"
+                       FontSize="10"
+                       Name="d3"/>
+            <TextBlock Grid.Row="4" Grid.Column="4" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       FontSize="10"
+                       Text=""
+                       Name="d4"/>
+            <TextBlock Grid.Row="5" Grid.Column="4" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text=""
+                       FontSize="10"
+                       Name="d5"/>
+            <TextBlock Grid.Row="6" Grid.Column="4" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text=""
+                       FontSize="10"
+                       Name="d6"/>
+            <TextBlock Grid.Row="7" Grid.Column="4" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       Text=""
+                       TextWrapping="Wrap"
+                       Name="d7"
+                       FontSize="10"/>
+            <TextBlock Grid.Row="8" Grid.Column="4" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       FontSize="10"
+                       Text="пропускание углекислого газа через известковую воду"
+                       Name="d8"/>
+            <TextBlock Grid.Row="9" Grid.Column="4" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       FontSize="10"
+                       Text=""
+                       Name="d9"/>
+            <TextBlock Grid.Row="10" Grid.Column="4" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text=""
+                       FontSize="10"
+                       Name="d10"/>
+            <TextBlock Grid.Row="11" Grid.Column="1"
+                       FontSize="15"
+                       TextWrapping="Wrap"
+                       Name="CountOfAnswers"/>
+            <TextBlock Grid.Row="11" Grid.Column="2"
+                       FontSize="15"
+                       Name="CountOFA"/>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+D:\study\3 курс\C#\labs\upinterface\upinterface\bin\Debug\net6.0\upinterface.exe
+D:\study\3 курс\C#\labs\upinterface\upinterface\bin\Debug\net6.0\upinterface.deps.json
+D:\study\3 курс\C#\labs\upinterface\upinterface\bin\Debug\net6.0\upinterface.runtimeconfig.json
+D:\study\3 курс\C#\labs\upinterface\upinterface\bin\Debug\net6.0\upinterface.dll
+D:\study\3 курс\C#\labs\upinterface\upinterface\bin\Debug\net6.0\ref\upinterface.dll
+D:\study\3 курс\C#\labs\upinterface\upinterface\bin\Debug\net6.0\upinterface.pdb
+D:\study\3 курс\C#\labs\upinterface\upinterface\obj\Debug\net6.0\upinterface.csproj.AssemblyReference.cache
+D:\study\3 курс\C#\labs\upinterface\upinterface\obj\Debug\net6.0\upinterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\3 курс\C#\labs\upinterface\upinterface\obj\Debug\net6.0\upinterface.AssemblyInfoInputs.cache
+D:\study\3 курс\C#\labs\upinterface\upinterface\obj\Debug\net6.0\upinterface.AssemblyInfo.cs
+D:\study\3 курс\C#\labs\upinterface\upinterface\obj\Debug\net6.0\upinterface.csproj.CoreCompileInputs.cache
+D:\study\3 курс\C#\labs\upinterface\upinterface\obj\Debug\net6.0\upinterface.dll
+D:\study\3 курс\C#\labs\upinterface\upinterface\obj\Debug\net6.0\ref\upinterface.dll
+D:\study\3 курс\C#\labs\upinterface\upinterface\obj\Debug\net6.0\upinterface.pdb
+D:\study\3 курс\C#\labs\upinterface\upinterface\obj\Debug\net6.0\upinterface.genruntimeconfig.cache

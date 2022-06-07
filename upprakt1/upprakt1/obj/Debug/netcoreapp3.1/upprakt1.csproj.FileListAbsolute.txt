@@ -1,0 +1,13 @@
+D:\study\3 курс\C#\labs\upprakt1\upprakt1\bin\Debug\netcoreapp3.1\upprakt1.exe
+D:\study\3 курс\C#\labs\upprakt1\upprakt1\bin\Debug\netcoreapp3.1\upprakt1.deps.json
+D:\study\3 курс\C#\labs\upprakt1\upprakt1\bin\Debug\netcoreapp3.1\upprakt1.runtimeconfig.json
+D:\study\3 курс\C#\labs\upprakt1\upprakt1\bin\Debug\netcoreapp3.1\upprakt1.runtimeconfig.dev.json
+D:\study\3 курс\C#\labs\upprakt1\upprakt1\bin\Debug\netcoreapp3.1\upprakt1.dll
+D:\study\3 курс\C#\labs\upprakt1\upprakt1\bin\Debug\netcoreapp3.1\upprakt1.pdb
+D:\study\3 курс\C#\labs\upprakt1\upprakt1\obj\Debug\netcoreapp3.1\upprakt1.csprojAssemblyReference.cache
+D:\study\3 курс\C#\labs\upprakt1\upprakt1\obj\Debug\netcoreapp3.1\upprakt1.AssemblyInfoInputs.cache
+D:\study\3 курс\C#\labs\upprakt1\upprakt1\obj\Debug\netcoreapp3.1\upprakt1.AssemblyInfo.cs
+D:\study\3 курс\C#\labs\upprakt1\upprakt1\obj\Debug\netcoreapp3.1\upprakt1.csproj.CoreCompileInputs.cache
+D:\study\3 курс\C#\labs\upprakt1\upprakt1\obj\Debug\netcoreapp3.1\upprakt1.dll
+D:\study\3 курс\C#\labs\upprakt1\upprakt1\obj\Debug\netcoreapp3.1\upprakt1.pdb
+D:\study\3 курс\C#\labs\upprakt1\upprakt1\obj\Debug\netcoreapp3.1\upprakt1.genruntimeconfig.cache

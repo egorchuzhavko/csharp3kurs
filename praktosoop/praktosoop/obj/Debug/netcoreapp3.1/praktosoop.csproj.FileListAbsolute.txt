@@ -1,0 +1,15 @@
+D:\study\3 курс\C#\labs\praktosoop\praktosoop\bin\Debug\netcoreapp3.1\praktosoop.exe
+D:\study\3 курс\C#\labs\praktosoop\praktosoop\bin\Debug\netcoreapp3.1\praktosoop.deps.json
+D:\study\3 курс\C#\labs\praktosoop\praktosoop\bin\Debug\netcoreapp3.1\praktosoop.runtimeconfig.json
+D:\study\3 курс\C#\labs\praktosoop\praktosoop\bin\Debug\netcoreapp3.1\praktosoop.runtimeconfig.dev.json
+D:\study\3 курс\C#\labs\praktosoop\praktosoop\bin\Debug\netcoreapp3.1\praktosoop.dll
+D:\study\3 курс\C#\labs\praktosoop\praktosoop\bin\Debug\netcoreapp3.1\praktosoop.pdb
+D:\study\3 курс\C#\labs\praktosoop\praktosoop\obj\Debug\netcoreapp3.1\praktosoop.csprojAssemblyReference.cache
+D:\study\3 курс\C#\labs\praktosoop\praktosoop\obj\Debug\netcoreapp3.1\praktosoop.AssemblyInfoInputs.cache
+D:\study\3 курс\C#\labs\praktosoop\praktosoop\obj\Debug\netcoreapp3.1\praktosoop.AssemblyInfo.cs
+D:\study\3 курс\C#\labs\praktosoop\praktosoop\obj\Debug\netcoreapp3.1\praktosoop.csproj.CoreCompileInputs.cache
+D:\study\3 курс\C#\labs\praktosoop\praktosoop\obj\Debug\netcoreapp3.1\praktosoop.dll
+D:\study\3 курс\C#\labs\praktosoop\praktosoop\obj\Debug\netcoreapp3.1\praktosoop.pdb
+D:\study\3 курс\C#\labs\praktosoop\praktosoop\obj\Debug\netcoreapp3.1\praktosoop.genruntimeconfig.cache
+D:\study\3 курс\C#\labs\praktosoop\praktosoop\obj\Debug\netcoreapp3.1\praktosoop.csproj.AssemblyReference.cache
+D:\study\3 курс\C#\labs\praktosoop\praktosoop\obj\Debug\netcoreapp3.1\praktosoop.GeneratedMSBuildEditorConfig.editorconfig

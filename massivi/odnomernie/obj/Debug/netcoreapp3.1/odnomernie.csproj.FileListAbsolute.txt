@@ -1,0 +1,13 @@
+D:\study\3 курс\C#\labs\massivi\odnomernie\bin\Debug\netcoreapp3.1\odnomernie.exe
+D:\study\3 курс\C#\labs\massivi\odnomernie\bin\Debug\netcoreapp3.1\odnomernie.deps.json
+D:\study\3 курс\C#\labs\massivi\odnomernie\bin\Debug\netcoreapp3.1\odnomernie.runtimeconfig.json
+D:\study\3 курс\C#\labs\massivi\odnomernie\bin\Debug\netcoreapp3.1\odnomernie.runtimeconfig.dev.json
+D:\study\3 курс\C#\labs\massivi\odnomernie\bin\Debug\netcoreapp3.1\odnomernie.dll
+D:\study\3 курс\C#\labs\massivi\odnomernie\bin\Debug\netcoreapp3.1\odnomernie.pdb
+D:\study\3 курс\C#\labs\massivi\odnomernie\obj\Debug\netcoreapp3.1\odnomernie.csprojAssemblyReference.cache
+D:\study\3 курс\C#\labs\massivi\odnomernie\obj\Debug\netcoreapp3.1\odnomernie.AssemblyInfoInputs.cache
+D:\study\3 курс\C#\labs\massivi\odnomernie\obj\Debug\netcoreapp3.1\odnomernie.AssemblyInfo.cs
+D:\study\3 курс\C#\labs\massivi\odnomernie\obj\Debug\netcoreapp3.1\odnomernie.csproj.CoreCompileInputs.cache
+D:\study\3 курс\C#\labs\massivi\odnomernie\obj\Debug\netcoreapp3.1\odnomernie.dll
+D:\study\3 курс\C#\labs\massivi\odnomernie\obj\Debug\netcoreapp3.1\odnomernie.pdb
+D:\study\3 курс\C#\labs\massivi\odnomernie\obj\Debug\netcoreapp3.1\odnomernie.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\study\3 курс\C#\labs\lab_01\Lab_02_new\bin\Debug\Lab_02_new.exe.config
+D:\study\3 курс\C#\labs\lab_01\Lab_02_new\bin\Debug\Lab_02_new.exe
+D:\study\3 курс\C#\labs\lab_01\Lab_02_new\bin\Debug\Lab_02_new.pdb
+D:\study\3 курс\C#\labs\lab_01\Lab_02_new\obj\Debug\Lab_02_new.csproj.AssemblyReference.cache
+D:\study\3 курс\C#\labs\lab_01\Lab_02_new\obj\Debug\Lab_02_new.csproj.SuggestedBindingRedirects.cache
+D:\study\3 курс\C#\labs\lab_01\Lab_02_new\obj\Debug\MainWindow.g.cs
+D:\study\3 курс\C#\labs\lab_01\Lab_02_new\obj\Debug\App.g.cs
+D:\study\3 курс\C#\labs\lab_01\Lab_02_new\obj\Debug\Lab_02_new_MarkupCompile.cache
+D:\study\3 курс\C#\labs\lab_01\Lab_02_new\obj\Debug\Lab_02_new_MarkupCompile.lref
+D:\study\3 курс\C#\labs\lab_01\Lab_02_new\obj\Debug\MainWindow.baml
+D:\study\3 курс\C#\labs\lab_01\Lab_02_new\obj\Debug\Lab_02_new.g.resources
+D:\study\3 курс\C#\labs\lab_01\Lab_02_new\obj\Debug\Lab_02_new.Properties.Resources.resources
+D:\study\3 курс\C#\labs\lab_01\Lab_02_new\obj\Debug\Lab_02_new.csproj.GenerateResource.cache
+D:\study\3 курс\C#\labs\lab_01\Lab_02_new\obj\Debug\Lab_02_new.csproj.CoreCompileInputs.cache
+D:\study\3 курс\C#\labs\lab_01\Lab_02_new\obj\Debug\Lab_02_new.exe
+D:\study\3 курс\C#\labs\lab_01\Lab_02_new\obj\Debug\Lab_02_new.pdb

@@ -1,0 +1,6 @@
+D:\study\3 курс\C#\labs\praktosoop\praktosoop\obj\Debug\net472\praktosoop.csproj.AssemblyReference.cache
+D:\study\3 курс\C#\labs\praktosoop\praktosoop\obj\Debug\net472\praktosoop.csproj.SuggestedBindingRedirects.cache
+D:\study\3 курс\C#\labs\praktosoop\praktosoop\obj\Debug\net472\praktosoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\3 курс\C#\labs\praktosoop\praktosoop\obj\Debug\net472\praktosoop.AssemblyInfoInputs.cache
+D:\study\3 курс\C#\labs\praktosoop\praktosoop\obj\Debug\net472\praktosoop.AssemblyInfo.cs
+D:\study\3 курс\C#\labs\praktosoop\praktosoop\obj\Debug\net472\praktosoop.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+D:\study\3 курс\C#\labs\lr6\lr6\bin\Debug\netcoreapp3.1\lr6.exe
+D:\study\3 курс\C#\labs\lr6\lr6\bin\Debug\netcoreapp3.1\lr6.deps.json
+D:\study\3 курс\C#\labs\lr6\lr6\bin\Debug\netcoreapp3.1\lr6.runtimeconfig.json
+D:\study\3 курс\C#\labs\lr6\lr6\bin\Debug\netcoreapp3.1\lr6.runtimeconfig.dev.json
+D:\study\3 курс\C#\labs\lr6\lr6\bin\Debug\netcoreapp3.1\lr6.dll
+D:\study\3 курс\C#\labs\lr6\lr6\bin\Debug\netcoreapp3.1\lr6.pdb
+D:\study\3 курс\C#\labs\lr6\lr6\obj\Debug\netcoreapp3.1\lr6.csprojAssemblyReference.cache
+D:\study\3 курс\C#\labs\lr6\lr6\obj\Debug\netcoreapp3.1\lr6.AssemblyInfoInputs.cache
+D:\study\3 курс\C#\labs\lr6\lr6\obj\Debug\netcoreapp3.1\lr6.AssemblyInfo.cs
+D:\study\3 курс\C#\labs\lr6\lr6\obj\Debug\netcoreapp3.1\lr6.csproj.CoreCompileInputs.cache
+D:\study\3 курс\C#\labs\lr6\lr6\obj\Debug\netcoreapp3.1\lr6.dll
+D:\study\3 курс\C#\labs\lr6\lr6\obj\Debug\netcoreapp3.1\lr6.pdb
+D:\study\3 курс\C#\labs\lr6\lr6\obj\Debug\netcoreapp3.1\lr6.genruntimeconfig.cache

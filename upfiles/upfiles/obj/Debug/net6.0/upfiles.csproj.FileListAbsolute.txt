@@ -1,0 +1,15 @@
+D:\study\3 курс\C#\labs\upfiles\upfiles\bin\Debug\net6.0\upfiles.exe
+D:\study\3 курс\C#\labs\upfiles\upfiles\bin\Debug\net6.0\upfiles.deps.json
+D:\study\3 курс\C#\labs\upfiles\upfiles\bin\Debug\net6.0\upfiles.runtimeconfig.json
+D:\study\3 курс\C#\labs\upfiles\upfiles\bin\Debug\net6.0\upfiles.dll
+D:\study\3 курс\C#\labs\upfiles\upfiles\bin\Debug\net6.0\ref\upfiles.dll
+D:\study\3 курс\C#\labs\upfiles\upfiles\bin\Debug\net6.0\upfiles.pdb
+D:\study\3 курс\C#\labs\upfiles\upfiles\obj\Debug\net6.0\upfiles.csproj.AssemblyReference.cache
+D:\study\3 курс\C#\labs\upfiles\upfiles\obj\Debug\net6.0\upfiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\3 курс\C#\labs\upfiles\upfiles\obj\Debug\net6.0\upfiles.AssemblyInfoInputs.cache
+D:\study\3 курс\C#\labs\upfiles\upfiles\obj\Debug\net6.0\upfiles.AssemblyInfo.cs
+D:\study\3 курс\C#\labs\upfiles\upfiles\obj\Debug\net6.0\upfiles.csproj.CoreCompileInputs.cache
+D:\study\3 курс\C#\labs\upfiles\upfiles\obj\Debug\net6.0\upfiles.dll
+D:\study\3 курс\C#\labs\upfiles\upfiles\obj\Debug\net6.0\ref\upfiles.dll
+D:\study\3 курс\C#\labs\upfiles\upfiles\obj\Debug\net6.0\upfiles.pdb
+D:\study\3 курс\C#\labs\upfiles\upfiles\obj\Debug\net6.0\upfiles.genruntimeconfig.cache

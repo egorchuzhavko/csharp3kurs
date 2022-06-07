@@ -1,0 +1,13 @@
+D:\study\3 курс\C#\labs\magicsquare\magicsquare\bin\Debug\netcoreapp3.1\magicsquare.exe
+D:\study\3 курс\C#\labs\magicsquare\magicsquare\bin\Debug\netcoreapp3.1\magicsquare.deps.json
+D:\study\3 курс\C#\labs\magicsquare\magicsquare\bin\Debug\netcoreapp3.1\magicsquare.runtimeconfig.json
+D:\study\3 курс\C#\labs\magicsquare\magicsquare\bin\Debug\netcoreapp3.1\magicsquare.runtimeconfig.dev.json
+D:\study\3 курс\C#\labs\magicsquare\magicsquare\bin\Debug\netcoreapp3.1\magicsquare.dll
+D:\study\3 курс\C#\labs\magicsquare\magicsquare\bin\Debug\netcoreapp3.1\magicsquare.pdb
+D:\study\3 курс\C#\labs\magicsquare\magicsquare\obj\Debug\netcoreapp3.1\magicsquare.csprojAssemblyReference.cache
+D:\study\3 курс\C#\labs\magicsquare\magicsquare\obj\Debug\netcoreapp3.1\magicsquare.AssemblyInfoInputs.cache
+D:\study\3 курс\C#\labs\magicsquare\magicsquare\obj\Debug\netcoreapp3.1\magicsquare.AssemblyInfo.cs
+D:\study\3 курс\C#\labs\magicsquare\magicsquare\obj\Debug\netcoreapp3.1\magicsquare.csproj.CoreCompileInputs.cache
+D:\study\3 курс\C#\labs\magicsquare\magicsquare\obj\Debug\netcoreapp3.1\magicsquare.dll
+D:\study\3 курс\C#\labs\magicsquare\magicsquare\obj\Debug\netcoreapp3.1\magicsquare.pdb
+D:\study\3 курс\C#\labs\magicsquare\magicsquare\obj\Debug\netcoreapp3.1\magicsquare.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "massivi", "massivi\massivi.csproj", "{A248D9C7-7A65-48C6-B003-435B3CCAD252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "odnomernie", "odnomernie\odnomernie.csproj", "{3D542BED-A83C-428D-9CA4-DE67DD8E6B1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A248D9C7-7A65-48C6-B003-435B3CCAD252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A248D9C7-7A65-48C6-B003-435B3CCAD252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A248D9C7-7A65-48C6-B003-435B3CCAD252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A248D9C7-7A65-48C6-B003-435B3CCAD252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D542BED-A83C-428D-9CA4-DE67DD8E6B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D542BED-A83C-428D-9CA4-DE67DD8E6B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D542BED-A83C-428D-9CA4-DE67DD8E6B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D542BED-A83C-428D-9CA4-DE67DD8E6B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA6501C6-01B6-4A47-96F7-6C438B35485F}
+	EndGlobalSection
+EndGlobal

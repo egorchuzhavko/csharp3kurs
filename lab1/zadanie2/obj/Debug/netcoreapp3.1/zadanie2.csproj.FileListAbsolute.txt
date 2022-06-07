@@ -1,0 +1,13 @@
+D:\study\3 курс\C#\labs\lab1\zadanie2\bin\Debug\netcoreapp3.1\zadanie2.exe
+D:\study\3 курс\C#\labs\lab1\zadanie2\bin\Debug\netcoreapp3.1\zadanie2.deps.json
+D:\study\3 курс\C#\labs\lab1\zadanie2\bin\Debug\netcoreapp3.1\zadanie2.runtimeconfig.json
+D:\study\3 курс\C#\labs\lab1\zadanie2\bin\Debug\netcoreapp3.1\zadanie2.runtimeconfig.dev.json
+D:\study\3 курс\C#\labs\lab1\zadanie2\bin\Debug\netcoreapp3.1\zadanie2.dll
+D:\study\3 курс\C#\labs\lab1\zadanie2\bin\Debug\netcoreapp3.1\zadanie2.pdb
+D:\study\3 курс\C#\labs\lab1\zadanie2\obj\Debug\netcoreapp3.1\zadanie2.csprojAssemblyReference.cache
+D:\study\3 курс\C#\labs\lab1\zadanie2\obj\Debug\netcoreapp3.1\zadanie2.AssemblyInfoInputs.cache
+D:\study\3 курс\C#\labs\lab1\zadanie2\obj\Debug\netcoreapp3.1\zadanie2.AssemblyInfo.cs
+D:\study\3 курс\C#\labs\lab1\zadanie2\obj\Debug\netcoreapp3.1\zadanie2.csproj.CoreCompileInputs.cache
+D:\study\3 курс\C#\labs\lab1\zadanie2\obj\Debug\netcoreapp3.1\zadanie2.dll
+D:\study\3 курс\C#\labs\lab1\zadanie2\obj\Debug\netcoreapp3.1\zadanie2.pdb
+D:\study\3 курс\C#\labs\lab1\zadanie2\obj\Debug\netcoreapp3.1\zadanie2.genruntimeconfig.cache

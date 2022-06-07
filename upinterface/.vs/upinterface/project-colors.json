@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f3d0ce39-f5a6-4965-ae1b-d54fb9a6ded9": {
+      "ProjectGuid": "f3d0ce39-f5a6-4965-ae1b-d54fb9a6ded9",
+      "DisplayName": "upinterface",
+      "ColorIndex": 0
+    },
+    "563dc73b-7c0c-4f1b-961a-76dbe290e469": {
+      "ProjectGuid": "563dc73b-7c0c-4f1b-961a-76dbe290e469",
+      "DisplayName": "zd2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pY9a9JvugMITSz6OZgI1J3cn9H3vaT5GUHBhL5NOrcmJWgoY8WVM+/pmybvDrevQebCsANEZQ+CLJCw8/tGvjA==",
+  "success": true,
+  "projectFilePath": "D:\\study\\3 курс\\C#\\labs\\xml\\xml\\xml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\awssdk.core\\3.7.7\\awssdk.core.3.7.7.nupkg.sha512",
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\awssdk.polly\\3.7.3.66\\awssdk.polly.3.7.3.66.nupkg.sha512"
+  ],
+  "logs": []
+}

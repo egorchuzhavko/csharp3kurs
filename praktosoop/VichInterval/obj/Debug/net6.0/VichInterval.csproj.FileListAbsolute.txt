@@ -1,0 +1,11 @@
+D:\study\3 курс\C#\labs\praktosoop\VichInterval\bin\Debug\net6.0\VichInterval.deps.json
+D:\study\3 курс\C#\labs\praktosoop\VichInterval\bin\Debug\net6.0\VichInterval.dll
+D:\study\3 курс\C#\labs\praktosoop\VichInterval\bin\Debug\net6.0\ref\VichInterval.dll
+D:\study\3 курс\C#\labs\praktosoop\VichInterval\bin\Debug\net6.0\VichInterval.pdb
+D:\study\3 курс\C#\labs\praktosoop\VichInterval\obj\Debug\net6.0\VichInterval.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\3 курс\C#\labs\praktosoop\VichInterval\obj\Debug\net6.0\VichInterval.AssemblyInfoInputs.cache
+D:\study\3 курс\C#\labs\praktosoop\VichInterval\obj\Debug\net6.0\VichInterval.AssemblyInfo.cs
+D:\study\3 курс\C#\labs\praktosoop\VichInterval\obj\Debug\net6.0\VichInterval.csproj.CoreCompileInputs.cache
+D:\study\3 курс\C#\labs\praktosoop\VichInterval\obj\Debug\net6.0\VichInterval.dll
+D:\study\3 курс\C#\labs\praktosoop\VichInterval\obj\Debug\net6.0\ref\VichInterval.dll
+D:\study\3 курс\C#\labs\praktosoop\VichInterval\obj\Debug\net6.0\VichInterval.pdb

@@ -1,0 +1,15 @@
+D:\study\3 курс\C#\labs\potoki\prmnogopotochnost\bin\Debug\net6.0\prmnogopotochnost.exe
+D:\study\3 курс\C#\labs\potoki\prmnogopotochnost\bin\Debug\net6.0\prmnogopotochnost.deps.json
+D:\study\3 курс\C#\labs\potoki\prmnogopotochnost\bin\Debug\net6.0\prmnogopotochnost.runtimeconfig.json
+D:\study\3 курс\C#\labs\potoki\prmnogopotochnost\bin\Debug\net6.0\prmnogopotochnost.dll
+D:\study\3 курс\C#\labs\potoki\prmnogopotochnost\bin\Debug\net6.0\prmnogopotochnost.pdb
+D:\study\3 курс\C#\labs\potoki\prmnogopotochnost\obj\Debug\net6.0\prmnogopotochnost.csproj.AssemblyReference.cache
+D:\study\3 курс\C#\labs\potoki\prmnogopotochnost\obj\Debug\net6.0\prmnogopotochnost.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\3 курс\C#\labs\potoki\prmnogopotochnost\obj\Debug\net6.0\prmnogopotochnost.AssemblyInfoInputs.cache
+D:\study\3 курс\C#\labs\potoki\prmnogopotochnost\obj\Debug\net6.0\prmnogopotochnost.AssemblyInfo.cs
+D:\study\3 курс\C#\labs\potoki\prmnogopotochnost\obj\Debug\net6.0\prmnogopotochnost.csproj.CoreCompileInputs.cache
+D:\study\3 курс\C#\labs\potoki\prmnogopotochnost\obj\Debug\net6.0\prmnogopotochnost.dll
+D:\study\3 курс\C#\labs\potoki\prmnogopotochnost\obj\Debug\net6.0\refint\prmnogopotochnost.dll
+D:\study\3 курс\C#\labs\potoki\prmnogopotochnost\obj\Debug\net6.0\prmnogopotochnost.pdb
+D:\study\3 курс\C#\labs\potoki\prmnogopotochnost\obj\Debug\net6.0\prmnogopotochnost.genruntimeconfig.cache
+D:\study\3 курс\C#\labs\potoki\prmnogopotochnost\obj\Debug\net6.0\ref\prmnogopotochnost.dll

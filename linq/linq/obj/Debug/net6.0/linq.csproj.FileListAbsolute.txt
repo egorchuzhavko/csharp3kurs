@@ -1,0 +1,15 @@
+D:\study\3 курс\C#\labs\linq\linq\bin\Debug\net6.0\linq.exe
+D:\study\3 курс\C#\labs\linq\linq\bin\Debug\net6.0\linq.deps.json
+D:\study\3 курс\C#\labs\linq\linq\bin\Debug\net6.0\linq.runtimeconfig.json
+D:\study\3 курс\C#\labs\linq\linq\bin\Debug\net6.0\linq.dll
+D:\study\3 курс\C#\labs\linq\linq\bin\Debug\net6.0\ref\linq.dll
+D:\study\3 курс\C#\labs\linq\linq\bin\Debug\net6.0\linq.pdb
+D:\study\3 курс\C#\labs\linq\linq\obj\Debug\net6.0\linq.csproj.AssemblyReference.cache
+D:\study\3 курс\C#\labs\linq\linq\obj\Debug\net6.0\linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\3 курс\C#\labs\linq\linq\obj\Debug\net6.0\linq.AssemblyInfoInputs.cache
+D:\study\3 курс\C#\labs\linq\linq\obj\Debug\net6.0\linq.AssemblyInfo.cs
+D:\study\3 курс\C#\labs\linq\linq\obj\Debug\net6.0\linq.csproj.CoreCompileInputs.cache
+D:\study\3 курс\C#\labs\linq\linq\obj\Debug\net6.0\linq.dll
+D:\study\3 курс\C#\labs\linq\linq\obj\Debug\net6.0\ref\linq.dll
+D:\study\3 курс\C#\labs\linq\linq\obj\Debug\net6.0\linq.pdb
+D:\study\3 курс\C#\labs\linq\linq\obj\Debug\net6.0\linq.genruntimeconfig.cache

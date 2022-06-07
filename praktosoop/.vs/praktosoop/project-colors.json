@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bbc69449-889f-4643-8774-6c50fca0f0d7": {
+      "ProjectGuid": "bbc69449-889f-4643-8774-6c50fca0f0d7",
+      "DisplayName": "praktosoop",
+      "ColorIndex": 0
+    },
+    "9ebc0884-c605-423e-8051-1c45116fa90f": {
+      "ProjectGuid": "9ebc0884-c605-423e-8051-1c45116fa90f",
+      "DisplayName": "VichInterval",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,15 @@
+D:\study\3 курс\C#\labs\potoki\potoki\bin\Debug\net6.0\posikprostihchisel.exe
+D:\study\3 курс\C#\labs\potoki\potoki\bin\Debug\net6.0\posikprostihchisel.deps.json
+D:\study\3 курс\C#\labs\potoki\potoki\bin\Debug\net6.0\posikprostihchisel.runtimeconfig.json
+D:\study\3 курс\C#\labs\potoki\potoki\bin\Debug\net6.0\posikprostihchisel.dll
+D:\study\3 курс\C#\labs\potoki\potoki\bin\Debug\net6.0\posikprostihchisel.pdb
+D:\study\3 курс\C#\labs\potoki\potoki\obj\Debug\net6.0\posikprostihchisel.csproj.AssemblyReference.cache
+D:\study\3 курс\C#\labs\potoki\potoki\obj\Debug\net6.0\posikprostihchisel.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\3 курс\C#\labs\potoki\potoki\obj\Debug\net6.0\posikprostihchisel.AssemblyInfoInputs.cache
+D:\study\3 курс\C#\labs\potoki\potoki\obj\Debug\net6.0\posikprostihchisel.AssemblyInfo.cs
+D:\study\3 курс\C#\labs\potoki\potoki\obj\Debug\net6.0\posikprostihchisel.csproj.CoreCompileInputs.cache
+D:\study\3 курс\C#\labs\potoki\potoki\obj\Debug\net6.0\posikprostihchisel.dll
+D:\study\3 курс\C#\labs\potoki\potoki\obj\Debug\net6.0\refint\posikprostihchisel.dll
+D:\study\3 курс\C#\labs\potoki\potoki\obj\Debug\net6.0\posikprostihchisel.pdb
+D:\study\3 курс\C#\labs\potoki\potoki\obj\Debug\net6.0\posikprostihchisel.genruntimeconfig.cache
+D:\study\3 курс\C#\labs\potoki\potoki\obj\Debug\net6.0\ref\posikprostihchisel.dll

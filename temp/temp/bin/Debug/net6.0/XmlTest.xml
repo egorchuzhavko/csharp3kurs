@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Zachetkas>
+  <Zachetka>
+    <Kurs>3</Kurs>
+    <Semestr>2</Semestr>
+    <GroupNumber>Т-993</GroupNumber>
+    <FIO>Парфянович Александр Сергеевич</FIO>
+    <ZachetkaNumber>87654321</ZachetkaNumber>
+    <Sesias SesiaName="КПиЯП" SesiaMark="9" />
+  </Zachetka>
+  <Zachetka>
+    <Kurs>1</Kurs>
+    <Semestr>2</Semestr>
+    <GroupNumber>Т-992</GroupNumber>
+    <FIO>Быковский Матвей Максимович</FIO>
+    <ZachetkaNumber>45368273</ZachetkaNumber>
+    <Sesias SesiaName="АУДО" SesiaMark="8" />
+  </Zachetka>
+  <Zachetka>
+    <Kurs>3</Kurs>
+    <Semestr>2</Semestr>
+    <GroupNumber>Т-992</GroupNumber>
+    <FIO>Чужавко Егор Андреевич</FIO>
+    <ZachetkaNumber>51530041</ZachetkaNumber>
+    <Sesias SesiaName="ТестированиеПо" SesiaMark="7" />
+  </Zachetka>
+  <Zachetka>
+    <Kurs>3</Kurs>
+    <Semestr>2</Semestr>
+    <GroupNumber>Т-992</GroupNumber>
+    <FIO>Раткевич Денис Юрьевич</FIO>
+    <ZachetkaNumber>56738139</ZachetkaNumber>
+    <Sesias SesiaName="ТестированиеПо" SesiaMark="8" />
+  </Zachetka>
+  <Zachetka>
+    <Kurs>3</Kurs>
+    <Semestr>2</Semestr>
+    <GroupNumber>Т-992</GroupNumber>
+    <FIO>Спарф Александр Сергеевич</FIO>
+    <ZachetkaNumber>67382746</ZachetkaNumber>
+    <Sesias SesiaName="ФизКультура" SesiaMark="6" />
+  </Zachetka>
+</Zachetkas>

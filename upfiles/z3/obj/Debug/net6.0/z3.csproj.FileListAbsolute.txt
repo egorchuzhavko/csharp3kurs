@@ -1,0 +1,15 @@
+D:\study\3 курс\C#\labs\upfiles\z3\bin\Debug\net6.0\z3.exe
+D:\study\3 курс\C#\labs\upfiles\z3\bin\Debug\net6.0\z3.deps.json
+D:\study\3 курс\C#\labs\upfiles\z3\bin\Debug\net6.0\z3.runtimeconfig.json
+D:\study\3 курс\C#\labs\upfiles\z3\bin\Debug\net6.0\z3.dll
+D:\study\3 курс\C#\labs\upfiles\z3\bin\Debug\net6.0\ref\z3.dll
+D:\study\3 курс\C#\labs\upfiles\z3\bin\Debug\net6.0\z3.pdb
+D:\study\3 курс\C#\labs\upfiles\z3\obj\Debug\net6.0\z3.csproj.AssemblyReference.cache
+D:\study\3 курс\C#\labs\upfiles\z3\obj\Debug\net6.0\z3.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\3 курс\C#\labs\upfiles\z3\obj\Debug\net6.0\z3.AssemblyInfoInputs.cache
+D:\study\3 курс\C#\labs\upfiles\z3\obj\Debug\net6.0\z3.AssemblyInfo.cs
+D:\study\3 курс\C#\labs\upfiles\z3\obj\Debug\net6.0\z3.csproj.CoreCompileInputs.cache
+D:\study\3 курс\C#\labs\upfiles\z3\obj\Debug\net6.0\z3.dll
+D:\study\3 курс\C#\labs\upfiles\z3\obj\Debug\net6.0\ref\z3.dll
+D:\study\3 курс\C#\labs\upfiles\z3\obj\Debug\net6.0\z3.pdb
+D:\study\3 курс\C#\labs\upfiles\z3\obj\Debug\net6.0\z3.genruntimeconfig.cache

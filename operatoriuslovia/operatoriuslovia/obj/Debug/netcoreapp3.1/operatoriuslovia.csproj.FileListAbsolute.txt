@@ -1,0 +1,13 @@
+D:\study\3 курс\C#\labs\operatoriuslovia\operatoriuslovia\bin\Debug\netcoreapp3.1\operatoriuslovia.exe
+D:\study\3 курс\C#\labs\operatoriuslovia\operatoriuslovia\bin\Debug\netcoreapp3.1\operatoriuslovia.deps.json
+D:\study\3 курс\C#\labs\operatoriuslovia\operatoriuslovia\bin\Debug\netcoreapp3.1\operatoriuslovia.runtimeconfig.json
+D:\study\3 курс\C#\labs\operatoriuslovia\operatoriuslovia\bin\Debug\netcoreapp3.1\operatoriuslovia.runtimeconfig.dev.json
+D:\study\3 курс\C#\labs\operatoriuslovia\operatoriuslovia\bin\Debug\netcoreapp3.1\operatoriuslovia.dll
+D:\study\3 курс\C#\labs\operatoriuslovia\operatoriuslovia\bin\Debug\netcoreapp3.1\operatoriuslovia.pdb
+D:\study\3 курс\C#\labs\operatoriuslovia\operatoriuslovia\obj\Debug\netcoreapp3.1\operatoriuslovia.csprojAssemblyReference.cache
+D:\study\3 курс\C#\labs\operatoriuslovia\operatoriuslovia\obj\Debug\netcoreapp3.1\operatoriuslovia.AssemblyInfoInputs.cache
+D:\study\3 курс\C#\labs\operatoriuslovia\operatoriuslovia\obj\Debug\netcoreapp3.1\operatoriuslovia.AssemblyInfo.cs
+D:\study\3 курс\C#\labs\operatoriuslovia\operatoriuslovia\obj\Debug\netcoreapp3.1\operatoriuslovia.csproj.CoreCompileInputs.cache
+D:\study\3 курс\C#\labs\operatoriuslovia\operatoriuslovia\obj\Debug\netcoreapp3.1\operatoriuslovia.dll
+D:\study\3 курс\C#\labs\operatoriuslovia\operatoriuslovia\obj\Debug\netcoreapp3.1\operatoriuslovia.pdb
+D:\study\3 курс\C#\labs\operatoriuslovia\operatoriuslovia\obj\Debug\netcoreapp3.1\operatoriuslovia.genruntimeconfig.cache

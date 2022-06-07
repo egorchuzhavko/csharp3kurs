@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "720e9b3a-87bd-4ca8-ad0c-82d61af076b6": {
+      "ProjectGuid": "720e9b3a-87bd-4ca8-ad0c-82d61af076b6",
+      "DisplayName": "qwerty",
+      "ColorIndex": 0
+    },
+    "586a0b50-07e4-4a0d-a747-b1b6cbb782a5": {
+      "ProjectGuid": "586a0b50-07e4-4a0d-a747-b1b6cbb782a5",
+      "DisplayName": "UnitTest1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

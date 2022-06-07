@@ -1,0 +1,13 @@
+D:\study\3 курс\C#\labs\upregvir\upregvir\bin\Debug\netcoreapp3.1\upregvir.exe
+D:\study\3 курс\C#\labs\upregvir\upregvir\bin\Debug\netcoreapp3.1\upregvir.deps.json
+D:\study\3 курс\C#\labs\upregvir\upregvir\bin\Debug\netcoreapp3.1\upregvir.runtimeconfig.json
+D:\study\3 курс\C#\labs\upregvir\upregvir\bin\Debug\netcoreapp3.1\upregvir.runtimeconfig.dev.json
+D:\study\3 курс\C#\labs\upregvir\upregvir\bin\Debug\netcoreapp3.1\upregvir.dll
+D:\study\3 курс\C#\labs\upregvir\upregvir\bin\Debug\netcoreapp3.1\upregvir.pdb
+D:\study\3 курс\C#\labs\upregvir\upregvir\obj\Debug\netcoreapp3.1\upregvir.csprojAssemblyReference.cache
+D:\study\3 курс\C#\labs\upregvir\upregvir\obj\Debug\netcoreapp3.1\upregvir.AssemblyInfoInputs.cache
+D:\study\3 курс\C#\labs\upregvir\upregvir\obj\Debug\netcoreapp3.1\upregvir.AssemblyInfo.cs
+D:\study\3 курс\C#\labs\upregvir\upregvir\obj\Debug\netcoreapp3.1\upregvir.csproj.CoreCompileInputs.cache
+D:\study\3 курс\C#\labs\upregvir\upregvir\obj\Debug\netcoreapp3.1\upregvir.dll
+D:\study\3 курс\C#\labs\upregvir\upregvir\obj\Debug\netcoreapp3.1\upregvir.pdb
+D:\study\3 курс\C#\labs\upregvir\upregvir\obj\Debug\netcoreapp3.1\upregvir.genruntimeconfig.cache

@@ -1,0 +1,155 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "AWSSDK.Core/3.7.7": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {}
+        }
+      },
+      "AWSSDK.Polly/3.7.3.66": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.Core": "[3.7.7, 4.0.0)"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/AWSSDK.Polly.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Polly.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AWSSDK.Core/3.7.7": {
+      "sha512": "oa2AMh0Fk5uQVfq5NR2P5WMqpzb7pY8rd94MUQ5vG8NUygpw1KfwX0h8jSYvhXy5lXagg2qQ+M/zNkDIAY5Lnw==",
+      "type": "package",
+      "path": "awssdk.core/3.7.7",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "awssdk.core.3.7.7.nupkg.sha512",
+        "awssdk.core.nuspec",
+        "lib/net35/AWSSDK.Core.dll",
+        "lib/net35/AWSSDK.Core.pdb",
+        "lib/net35/AWSSDK.Core.xml",
+        "lib/net45/AWSSDK.Core.dll",
+        "lib/net45/AWSSDK.Core.pdb",
+        "lib/net45/AWSSDK.Core.xml",
+        "lib/netcoreapp3.1/AWSSDK.Core.dll",
+        "lib/netcoreapp3.1/AWSSDK.Core.pdb",
+        "lib/netcoreapp3.1/AWSSDK.Core.xml",
+        "lib/netstandard2.0/AWSSDK.Core.dll",
+        "lib/netstandard2.0/AWSSDK.Core.pdb",
+        "lib/netstandard2.0/AWSSDK.Core.xml",
+        "tools/account-management.ps1"
+      ]
+    },
+    "AWSSDK.Polly/3.7.3.66": {
+      "sha512": "lNNmZ61vQGSlbIksc/GGc+DpmBdfZBss+nAcKAbdTqdqydqMYqK66fPaKn09venqwDEM0jM9fjzTAUHVRVdtQA==",
+      "type": "package",
+      "path": "awssdk.polly/3.7.3.66",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/AWSSDK.Polly.CodeAnalysis.dll",
+        "awssdk.polly.3.7.3.66.nupkg.sha512",
+        "awssdk.polly.nuspec",
+        "lib/net35/AWSSDK.Polly.dll",
+        "lib/net35/AWSSDK.Polly.pdb",
+        "lib/net35/AWSSDK.Polly.xml",
+        "lib/net45/AWSSDK.Polly.dll",
+        "lib/net45/AWSSDK.Polly.pdb",
+        "lib/net45/AWSSDK.Polly.xml",
+        "lib/netcoreapp3.1/AWSSDK.Polly.dll",
+        "lib/netcoreapp3.1/AWSSDK.Polly.pdb",
+        "lib/netcoreapp3.1/AWSSDK.Polly.xml",
+        "lib/netstandard2.0/AWSSDK.Polly.dll",
+        "lib/netstandard2.0/AWSSDK.Polly.pdb",
+        "lib/netstandard2.0/AWSSDK.Polly.xml",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "AWSSDK.Polly >= 3.7.3.66"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\study\\3 курс\\C#\\labs\\xml\\xml\\xml.csproj",
+      "projectName": "xml",
+      "projectPath": "D:\\study\\3 курс\\C#\\labs\\xml\\xml\\xml.csproj",
+      "packagesPath": "C:\\Users\\Xiaomi\\.nuget\\packages\\",
+      "outputPath": "D:\\study\\3 курс\\C#\\labs\\xml\\xml\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Xiaomi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "AWSSDK.Polly": {
+            "target": "Package",
+            "version": "[3.7.3.66, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

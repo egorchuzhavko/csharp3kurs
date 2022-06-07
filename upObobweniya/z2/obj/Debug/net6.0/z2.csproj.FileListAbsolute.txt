@@ -1,0 +1,15 @@
+D:\study\3 курс\C#\labs\upObobweniya\z2\bin\Debug\net6.0\z2.exe
+D:\study\3 курс\C#\labs\upObobweniya\z2\bin\Debug\net6.0\z2.deps.json
+D:\study\3 курс\C#\labs\upObobweniya\z2\bin\Debug\net6.0\z2.runtimeconfig.json
+D:\study\3 курс\C#\labs\upObobweniya\z2\bin\Debug\net6.0\z2.dll
+D:\study\3 курс\C#\labs\upObobweniya\z2\bin\Debug\net6.0\ref\z2.dll
+D:\study\3 курс\C#\labs\upObobweniya\z2\bin\Debug\net6.0\z2.pdb
+D:\study\3 курс\C#\labs\upObobweniya\z2\obj\Debug\net6.0\z2.csproj.AssemblyReference.cache
+D:\study\3 курс\C#\labs\upObobweniya\z2\obj\Debug\net6.0\z2.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\3 курс\C#\labs\upObobweniya\z2\obj\Debug\net6.0\z2.AssemblyInfoInputs.cache
+D:\study\3 курс\C#\labs\upObobweniya\z2\obj\Debug\net6.0\z2.AssemblyInfo.cs
+D:\study\3 курс\C#\labs\upObobweniya\z2\obj\Debug\net6.0\z2.csproj.CoreCompileInputs.cache
+D:\study\3 курс\C#\labs\upObobweniya\z2\obj\Debug\net6.0\z2.dll
+D:\study\3 курс\C#\labs\upObobweniya\z2\obj\Debug\net6.0\ref\z2.dll
+D:\study\3 курс\C#\labs\upObobweniya\z2\obj\Debug\net6.0\z2.pdb
+D:\study\3 курс\C#\labs\upObobweniya\z2\obj\Debug\net6.0\z2.genruntimeconfig.cache

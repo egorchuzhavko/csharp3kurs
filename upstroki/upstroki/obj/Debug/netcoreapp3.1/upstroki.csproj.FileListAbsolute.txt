@@ -1,0 +1,13 @@
+D:\study\3 курс\C#\labs\upstroki\upstroki\bin\Debug\netcoreapp3.1\upstroki.exe
+D:\study\3 курс\C#\labs\upstroki\upstroki\bin\Debug\netcoreapp3.1\upstroki.deps.json
+D:\study\3 курс\C#\labs\upstroki\upstroki\bin\Debug\netcoreapp3.1\upstroki.runtimeconfig.json
+D:\study\3 курс\C#\labs\upstroki\upstroki\bin\Debug\netcoreapp3.1\upstroki.runtimeconfig.dev.json
+D:\study\3 курс\C#\labs\upstroki\upstroki\bin\Debug\netcoreapp3.1\upstroki.dll
+D:\study\3 курс\C#\labs\upstroki\upstroki\bin\Debug\netcoreapp3.1\upstroki.pdb
+D:\study\3 курс\C#\labs\upstroki\upstroki\obj\Debug\netcoreapp3.1\upstroki.csprojAssemblyReference.cache
+D:\study\3 курс\C#\labs\upstroki\upstroki\obj\Debug\netcoreapp3.1\upstroki.AssemblyInfoInputs.cache
+D:\study\3 курс\C#\labs\upstroki\upstroki\obj\Debug\netcoreapp3.1\upstroki.AssemblyInfo.cs
+D:\study\3 курс\C#\labs\upstroki\upstroki\obj\Debug\netcoreapp3.1\upstroki.csproj.CoreCompileInputs.cache
+D:\study\3 курс\C#\labs\upstroki\upstroki\obj\Debug\netcoreapp3.1\upstroki.dll
+D:\study\3 курс\C#\labs\upstroki\upstroki\obj\Debug\netcoreapp3.1\upstroki.pdb
+D:\study\3 курс\C#\labs\upstroki\upstroki\obj\Debug\netcoreapp3.1\upstroki.genruntimeconfig.cache

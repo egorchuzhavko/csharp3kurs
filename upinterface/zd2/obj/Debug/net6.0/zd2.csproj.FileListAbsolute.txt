@@ -1,0 +1,15 @@
+D:\study\3 курс\C#\labs\upinterface\zd2\bin\Debug\net6.0\zd2.exe
+D:\study\3 курс\C#\labs\upinterface\zd2\bin\Debug\net6.0\zd2.deps.json
+D:\study\3 курс\C#\labs\upinterface\zd2\bin\Debug\net6.0\zd2.runtimeconfig.json
+D:\study\3 курс\C#\labs\upinterface\zd2\bin\Debug\net6.0\zd2.dll
+D:\study\3 курс\C#\labs\upinterface\zd2\bin\Debug\net6.0\ref\zd2.dll
+D:\study\3 курс\C#\labs\upinterface\zd2\bin\Debug\net6.0\zd2.pdb
+D:\study\3 курс\C#\labs\upinterface\zd2\obj\Debug\net6.0\zd2.csproj.AssemblyReference.cache
+D:\study\3 курс\C#\labs\upinterface\zd2\obj\Debug\net6.0\zd2.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\3 курс\C#\labs\upinterface\zd2\obj\Debug\net6.0\zd2.AssemblyInfoInputs.cache
+D:\study\3 курс\C#\labs\upinterface\zd2\obj\Debug\net6.0\zd2.AssemblyInfo.cs
+D:\study\3 курс\C#\labs\upinterface\zd2\obj\Debug\net6.0\zd2.csproj.CoreCompileInputs.cache
+D:\study\3 курс\C#\labs\upinterface\zd2\obj\Debug\net6.0\zd2.dll
+D:\study\3 курс\C#\labs\upinterface\zd2\obj\Debug\net6.0\ref\zd2.dll
+D:\study\3 курс\C#\labs\upinterface\zd2\obj\Debug\net6.0\zd2.pdb
+D:\study\3 курс\C#\labs\upinterface\zd2\obj\Debug\net6.0\zd2.genruntimeconfig.cache

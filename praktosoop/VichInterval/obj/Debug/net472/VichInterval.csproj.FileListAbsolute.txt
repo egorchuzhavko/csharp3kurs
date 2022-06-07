@@ -1,0 +1,5 @@
+D:\study\3 курс\C#\labs\praktosoop\VichInterval\obj\Debug\net472\VichInterval.csproj.AssemblyReference.cache
+D:\study\3 курс\C#\labs\praktosoop\VichInterval\obj\Debug\net472\VichInterval.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\3 курс\C#\labs\praktosoop\VichInterval\obj\Debug\net472\VichInterval.AssemblyInfoInputs.cache
+D:\study\3 курс\C#\labs\praktosoop\VichInterval\obj\Debug\net472\VichInterval.AssemblyInfo.cs
+D:\study\3 курс\C#\labs\praktosoop\VichInterval\obj\Debug\net472\VichInterval.csproj.CoreCompileInputs.cache

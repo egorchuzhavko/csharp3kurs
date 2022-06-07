@@ -1,0 +1,13 @@
+D:\study\3 курс\C#\labs\massivi\massivi\obj\Debug\netcoreapp3.1\massivi.csprojAssemblyReference.cache
+D:\study\3 курс\C#\labs\massivi\massivi\obj\Debug\netcoreapp3.1\massivi.AssemblyInfoInputs.cache
+D:\study\3 курс\C#\labs\massivi\massivi\obj\Debug\netcoreapp3.1\massivi.AssemblyInfo.cs
+D:\study\3 курс\C#\labs\massivi\massivi\obj\Debug\netcoreapp3.1\massivi.csproj.CoreCompileInputs.cache
+D:\study\3 курс\C#\labs\massivi\massivi\obj\Debug\netcoreapp3.1\massivi.genruntimeconfig.cache
+D:\study\3 курс\C#\labs\massivi\massivi\bin\Debug\netcoreapp3.1\massivi2mernie.exe
+D:\study\3 курс\C#\labs\massivi\massivi\bin\Debug\netcoreapp3.1\massivi2mernie.deps.json
+D:\study\3 курс\C#\labs\massivi\massivi\bin\Debug\netcoreapp3.1\massivi2mernie.runtimeconfig.json
+D:\study\3 курс\C#\labs\massivi\massivi\bin\Debug\netcoreapp3.1\massivi2mernie.runtimeconfig.dev.json
+D:\study\3 курс\C#\labs\massivi\massivi\bin\Debug\netcoreapp3.1\massivi2mernie.dll
+D:\study\3 курс\C#\labs\massivi\massivi\bin\Debug\netcoreapp3.1\massivi2mernie.pdb
+D:\study\3 курс\C#\labs\massivi\massivi\obj\Debug\netcoreapp3.1\massivi2mernie.dll
+D:\study\3 курс\C#\labs\massivi\massivi\obj\Debug\netcoreapp3.1\massivi2mernie.pdb

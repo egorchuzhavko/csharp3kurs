@@ -1,0 +1,15 @@
+D:\study\3 курс\C#\labs\okr2\okr2\bin\Debug\net6.0\okr2.exe
+D:\study\3 курс\C#\labs\okr2\okr2\bin\Debug\net6.0\okr2.deps.json
+D:\study\3 курс\C#\labs\okr2\okr2\bin\Debug\net6.0\okr2.runtimeconfig.json
+D:\study\3 курс\C#\labs\okr2\okr2\bin\Debug\net6.0\okr2.dll
+D:\study\3 курс\C#\labs\okr2\okr2\bin\Debug\net6.0\ref\okr2.dll
+D:\study\3 курс\C#\labs\okr2\okr2\bin\Debug\net6.0\okr2.pdb
+D:\study\3 курс\C#\labs\okr2\okr2\obj\Debug\net6.0\okr2.csproj.AssemblyReference.cache
+D:\study\3 курс\C#\labs\okr2\okr2\obj\Debug\net6.0\okr2.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\3 курс\C#\labs\okr2\okr2\obj\Debug\net6.0\okr2.AssemblyInfoInputs.cache
+D:\study\3 курс\C#\labs\okr2\okr2\obj\Debug\net6.0\okr2.AssemblyInfo.cs
+D:\study\3 курс\C#\labs\okr2\okr2\obj\Debug\net6.0\okr2.csproj.CoreCompileInputs.cache
+D:\study\3 курс\C#\labs\okr2\okr2\obj\Debug\net6.0\okr2.dll
+D:\study\3 курс\C#\labs\okr2\okr2\obj\Debug\net6.0\ref\okr2.dll
+D:\study\3 курс\C#\labs\okr2\okr2\obj\Debug\net6.0\okr2.pdb
+D:\study\3 курс\C#\labs\okr2\okr2\obj\Debug\net6.0\okr2.genruntimeconfig.cache
