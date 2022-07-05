@@ -1,0 +1,16 @@
+D:\study\3 курс\C#\labs\Test\Test\bin\Release\Test.exe.config
+D:\study\3 курс\C#\labs\Test\Test\bin\Release\Test.exe
+D:\study\3 курс\C#\labs\Test\Test\bin\Release\Test.pdb
+D:\study\3 курс\C#\labs\Test\Test\obj\Release\Test.csproj.AssemblyReference.cache
+D:\study\3 курс\C#\labs\Test\Test\obj\Release\Test.csproj.SuggestedBindingRedirects.cache
+D:\study\3 курс\C#\labs\Test\Test\obj\Release\MainWindow.g.cs
+D:\study\3 курс\C#\labs\Test\Test\obj\Release\App.g.cs
+D:\study\3 курс\C#\labs\Test\Test\obj\Release\Test_MarkupCompile.cache
+D:\study\3 курс\C#\labs\Test\Test\obj\Release\Test_MarkupCompile.lref
+D:\study\3 курс\C#\labs\Test\Test\obj\Release\MainWindow.baml
+D:\study\3 курс\C#\labs\Test\Test\obj\Release\Test.g.resources
+D:\study\3 курс\C#\labs\Test\Test\obj\Release\Test.Properties.Resources.resources
+D:\study\3 курс\C#\labs\Test\Test\obj\Release\Test.csproj.GenerateResource.cache
+D:\study\3 курс\C#\labs\Test\Test\obj\Release\Test.csproj.CoreCompileInputs.cache
+D:\study\3 курс\C#\labs\Test\Test\obj\Release\Test.exe
+D:\study\3 курс\C#\labs\Test\Test\obj\Release\Test.pdb

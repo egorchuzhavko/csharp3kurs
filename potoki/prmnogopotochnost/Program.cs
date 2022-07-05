@@ -1,34 +1,17 @@
-﻿// See https://aka.ms/new-console-template for more information
-Thread sl = new Thread(Slojenie);
-Thread umn = new Thread(Umnojenie);
-Thread st = new Thread(Stepen);
-
-sl.Start();
-umn.Start();
-st.Start();
-
-
-static void Slojenie()
+﻿using System;
+using System.Net;
+namespace Nett
 {
-    int chislo = 2;
-    for(int i = 2; i <= 10; i++)
+    class Program
     {
-        chislo +=chislo;
+        static void Main(string[] args)
+        {
+            string hostname = "instagram.com";
+            string message = "IP адреса для домена " + hostname + "\n";
+            IPHostEntry entry = Dns.GetHostEntry(hostname);
+            foreach (IPAddress a in entry.AddressList)
+                message += "  --> " + a.ToString() + "\n";
+            Console.WriteLine(message);
+        }
     }
-    Console.WriteLine("Сложение - " + chislo);
-}
-
-static void Umnojenie()
-{
-    int chislo = 2;
-    for (int i = 2; i <= 10; i++)
-    {
-        chislo *= 2;
-    }
-    Console.WriteLine("Умножение - " + chislo);
-}
-
-static void Stepen()
-{
-    Console.WriteLine("Степень - " + Math.Pow(2, 10));
 }

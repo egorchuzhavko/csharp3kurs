@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "5hHTTu2C/JmIAexjREq71RXd+s3JfP9wq7VmJcdRZkxtP7cl3ZSHYgyJqhTLZm7uorTJx8+zunqO4oEw60tkHA==",
+  "dgSpecHash": "g+plwu2/pguNzqo8tMwuoLfYW7VCtqp09qsV6SXctNb98zssNUI9AbQCm4nPTfZJQuE/8y3z4EU/4Rx3hDsz3w==",
   "success": true,
   "projectFilePath": "D:\\study\\3 курс\\C#\\labs\\massivi\\massivi\\massivi.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,15 @@
+D:\study\3 курс\C#\labs\massivi\odnomernie\bin\Debug\net6.0\odnomernie.exe
+D:\study\3 курс\C#\labs\massivi\odnomernie\bin\Debug\net6.0\odnomernie.deps.json
+D:\study\3 курс\C#\labs\massivi\odnomernie\bin\Debug\net6.0\odnomernie.runtimeconfig.json
+D:\study\3 курс\C#\labs\massivi\odnomernie\bin\Debug\net6.0\odnomernie.dll
+D:\study\3 курс\C#\labs\massivi\odnomernie\bin\Debug\net6.0\odnomernie.pdb
+D:\study\3 курс\C#\labs\massivi\odnomernie\obj\Debug\net6.0\odnomernie.csproj.AssemblyReference.cache
+D:\study\3 курс\C#\labs\massivi\odnomernie\obj\Debug\net6.0\odnomernie.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\3 курс\C#\labs\massivi\odnomernie\obj\Debug\net6.0\odnomernie.AssemblyInfoInputs.cache
+D:\study\3 курс\C#\labs\massivi\odnomernie\obj\Debug\net6.0\odnomernie.AssemblyInfo.cs
+D:\study\3 курс\C#\labs\massivi\odnomernie\obj\Debug\net6.0\odnomernie.csproj.CoreCompileInputs.cache
+D:\study\3 курс\C#\labs\massivi\odnomernie\obj\Debug\net6.0\odnomernie.dll
+D:\study\3 курс\C#\labs\massivi\odnomernie\obj\Debug\net6.0\refint\odnomernie.dll
+D:\study\3 курс\C#\labs\massivi\odnomernie\obj\Debug\net6.0\odnomernie.pdb
+D:\study\3 курс\C#\labs\massivi\odnomernie\obj\Debug\net6.0\odnomernie.genruntimeconfig.cache
+D:\study\3 курс\C#\labs\massivi\odnomernie\obj\Debug\net6.0\ref\odnomernie.dll

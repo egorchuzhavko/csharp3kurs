@@ -1,30 +1,15 @@
 ﻿using xml;
 using System.Xml;
 using System.Xml.Linq;
-using System.Xml.XPath;
 
 List<Discipline> disciplines = new List<Discipline>();
 Discipline d1= new Discipline("ОАиП", "Шаляпин", 26, 100, 300, true, "экзамен");
 Discipline d2 = new Discipline("Основы права", "Кутузова", 26, 30, 10, false, "зачёт");
 Discipline d3 = new Discipline("Основы кроссплатформенного программирования", "Кибисова", 26, 20, 150, false, "экзамен");
-Discipline d4 = new Discipline("Высшая математика", "Василевская", 26, 250, 200, false, "экзамен");
-Discipline d5 = new Discipline("История Беларуси", "Занковец", 26, 175, 20, false, "экзамен");
-Discipline d6 = new Discipline("Математика", "Сазон", 26, 150, 100, false, "экзамен");
-Discipline d7 = new Discipline("КПиЯП", "Багласова", 23, 30, 300, true, "экзамен");
-Discipline d8 = new Discipline("Тестирование ПО", "Якимович", 23, 50, 100, false, "экзамен");
-Discipline d9 = new Discipline("Тестирование ПО", "Якимович", 19, 50, 100, false, "экзамен");
-Discipline d10 = new Discipline("Английский", "Смелова", 13, 200, 150, false, "экзамен");
 
 disciplines.Add(d1);
 disciplines.Add(d2);
 disciplines.Add(d3);
-disciplines.Add(d8);
-disciplines.Add(d5);
-disciplines.Add(d6);
-disciplines.Add(d7);
-disciplines.Add(d4);
-disciplines.Add(d9);
-disciplines.Add(d10);
 
 int p = 0;
 do
@@ -187,10 +172,6 @@ var file=new XmlDocument();
 file.Load(@"XmlDoc.xml");
 var temp = file.DocumentElement;
 PrintItem(temp);
-
-/// <summary>
-/// 
-/// </summary>
 Console.WriteLine("\n\nСортировка по Преподавателю и кол-ву студентов в группе\n\n");
 XDocument xelement = XDocument.Load(@"XmlDoc.xml");
 IEnumerable<XElement> sort = from t in xelement.Root.Elements("Discipline")
@@ -216,10 +197,6 @@ var file2 = new XmlDocument();
 file2.Load(@"XmlDoc2.xml");
 var temp2 = file2.DocumentElement;
 PrintItem(temp2);
-
-/// <summary>
-/// 
-/// </summary>
 Console.WriteLine("\n\nДисциплины, имеющие курсовую работу: ");
 XDocument xdoc3 = XDocument.Load(@"XmlDoc.xml");
 bool flag = false;
@@ -235,10 +212,6 @@ foreach(XElement element in xdoc3.Element("disciplines").Elements("Discipline"))
 }
 if(!flag)
     Console.WriteLine("Таких дисциплин нет");
-
-/// <summary>
-/// 
-/// </summary>
 Console.Write("\n\nФамилия преподавателя с наибольшим количеством экзаменов: ");
 XDocument xdoc4 = XDocument.Load(@"XmlDoc2.xml");
 List<string> list = new List<string>();
@@ -269,13 +242,6 @@ for (int i = 0; i < list.Count; i++)
 }
 Console.Write(prepod);
 Console.WriteLine("\n\n\n");
-
-
-/// <summary>
-/// 
-/// </summary>
-
-
 Console.WriteLine("Количество практических занятий по каждой дисциплине:");
 List<string> tmppredmeti=new List<string>();
 XDocument xdoc5 = XDocument.Load(@"XmlDoc.xml");
@@ -302,13 +268,6 @@ foreach (XElement el1 in xdoc5.Element("disciplines").Elements("Discipline"))
         tmppredmeti.Add(el1.Attribute("Name").Value);
     }
 }
-//new XAttribute("Name", discipline.Attribute("Name").Value),
-//                       new XAttribute("Teacher", discipline.Attribute("Teacher").Value),
-//                       new XElement("CountOfStudentsInGroup", discipline.Element("CountOfStudentsInGroup").Value),
-//                       new XElement("СountOfHoursForLections", discipline.Element("СountOfHoursForLections").Value),
-//                       new XElement("CountOfHoursForPractice", discipline.Element("CountOfHoursForPractice").Value),
-//                       new XElement("AvailabilityOfKursovaya", discipline.Element("AvailabilityOfKursovaya").Value),
-//                       new XElement("TypeOfFinalControl", discipline.Element("TypeOfFinalControl").Value)
 Console.WriteLine("\n\n\n");
 Console.WriteLine("Группировка");
 XDocument xdoc6 = XDocument.Load(@"XmlDoc.xml");

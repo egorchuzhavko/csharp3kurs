@@ -1,0 +1,15 @@
+D:\study\3 курс\C#\labs\tempp\tempp\bin\Debug\net6.0\tempp.exe
+D:\study\3 курс\C#\labs\tempp\tempp\bin\Debug\net6.0\tempp.deps.json
+D:\study\3 курс\C#\labs\tempp\tempp\bin\Debug\net6.0\tempp.runtimeconfig.json
+D:\study\3 курс\C#\labs\tempp\tempp\bin\Debug\net6.0\tempp.dll
+D:\study\3 курс\C#\labs\tempp\tempp\bin\Debug\net6.0\tempp.pdb
+D:\study\3 курс\C#\labs\tempp\tempp\obj\Debug\net6.0\tempp.csproj.AssemblyReference.cache
+D:\study\3 курс\C#\labs\tempp\tempp\obj\Debug\net6.0\tempp.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\3 курс\C#\labs\tempp\tempp\obj\Debug\net6.0\tempp.AssemblyInfoInputs.cache
+D:\study\3 курс\C#\labs\tempp\tempp\obj\Debug\net6.0\tempp.AssemblyInfo.cs
+D:\study\3 курс\C#\labs\tempp\tempp\obj\Debug\net6.0\tempp.csproj.CoreCompileInputs.cache
+D:\study\3 курс\C#\labs\tempp\tempp\obj\Debug\net6.0\tempp.dll
+D:\study\3 курс\C#\labs\tempp\tempp\obj\Debug\net6.0\refint\tempp.dll
+D:\study\3 курс\C#\labs\tempp\tempp\obj\Debug\net6.0\tempp.pdb
+D:\study\3 курс\C#\labs\tempp\tempp\obj\Debug\net6.0\tempp.genruntimeconfig.cache
+D:\study\3 курс\C#\labs\tempp\tempp\obj\Debug\net6.0\ref\tempp.dll

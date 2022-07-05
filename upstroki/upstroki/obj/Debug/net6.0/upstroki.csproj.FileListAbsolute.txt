@@ -1,0 +1,15 @@
+D:\study\3 курс\C#\labs\upstroki\upstroki\obj\Debug\net6.0\upstroki.csproj.AssemblyReference.cache
+D:\study\3 курс\C#\labs\upstroki\upstroki\obj\Debug\net6.0\upstroki.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\3 курс\C#\labs\upstroki\upstroki\obj\Debug\net6.0\upstroki.AssemblyInfoInputs.cache
+D:\study\3 курс\C#\labs\upstroki\upstroki\obj\Debug\net6.0\upstroki.AssemblyInfo.cs
+D:\study\3 курс\C#\labs\upstroki\upstroki\obj\Debug\net6.0\upstroki.csproj.CoreCompileInputs.cache
+D:\study\3 курс\C#\labs\upstroki\upstroki\bin\Debug\net6.0\upstroki.exe
+D:\study\3 курс\C#\labs\upstroki\upstroki\bin\Debug\net6.0\upstroki.deps.json
+D:\study\3 курс\C#\labs\upstroki\upstroki\bin\Debug\net6.0\upstroki.runtimeconfig.json
+D:\study\3 курс\C#\labs\upstroki\upstroki\bin\Debug\net6.0\upstroki.dll
+D:\study\3 курс\C#\labs\upstroki\upstroki\bin\Debug\net6.0\upstroki.pdb
+D:\study\3 курс\C#\labs\upstroki\upstroki\obj\Debug\net6.0\upstroki.dll
+D:\study\3 курс\C#\labs\upstroki\upstroki\obj\Debug\net6.0\refint\upstroki.dll
+D:\study\3 курс\C#\labs\upstroki\upstroki\obj\Debug\net6.0\upstroki.pdb
+D:\study\3 курс\C#\labs\upstroki\upstroki\obj\Debug\net6.0\upstroki.genruntimeconfig.cache
+D:\study\3 курс\C#\labs\upstroki\upstroki\obj\Debug\net6.0\ref\upstroki.dll

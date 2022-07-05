@@ -1,0 +1,15 @@
+D:\study\3 курс\C#\labs\upregvir\upregvir\bin\Debug\net6.0\upregvir.exe
+D:\study\3 курс\C#\labs\upregvir\upregvir\bin\Debug\net6.0\upregvir.deps.json
+D:\study\3 курс\C#\labs\upregvir\upregvir\bin\Debug\net6.0\upregvir.runtimeconfig.json
+D:\study\3 курс\C#\labs\upregvir\upregvir\bin\Debug\net6.0\upregvir.dll
+D:\study\3 курс\C#\labs\upregvir\upregvir\bin\Debug\net6.0\upregvir.pdb
+D:\study\3 курс\C#\labs\upregvir\upregvir\obj\Debug\net6.0\upregvir.csproj.AssemblyReference.cache
+D:\study\3 курс\C#\labs\upregvir\upregvir\obj\Debug\net6.0\upregvir.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\3 курс\C#\labs\upregvir\upregvir\obj\Debug\net6.0\upregvir.AssemblyInfoInputs.cache
+D:\study\3 курс\C#\labs\upregvir\upregvir\obj\Debug\net6.0\upregvir.AssemblyInfo.cs
+D:\study\3 курс\C#\labs\upregvir\upregvir\obj\Debug\net6.0\upregvir.csproj.CoreCompileInputs.cache
+D:\study\3 курс\C#\labs\upregvir\upregvir\obj\Debug\net6.0\upregvir.dll
+D:\study\3 курс\C#\labs\upregvir\upregvir\obj\Debug\net6.0\refint\upregvir.dll
+D:\study\3 курс\C#\labs\upregvir\upregvir\obj\Debug\net6.0\upregvir.pdb
+D:\study\3 курс\C#\labs\upregvir\upregvir\obj\Debug\net6.0\upregvir.genruntimeconfig.cache
+D:\study\3 курс\C#\labs\upregvir\upregvir\obj\Debug\net6.0\ref\upregvir.dll
